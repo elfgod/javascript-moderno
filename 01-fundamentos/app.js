@@ -54,6 +54,26 @@ const saludo = string1 + string2
 console.log('saludo: ', saludo)
 
 
+console.log('\n');
+console.log('%c Depuracion y breakpoints', 'color: orange; font-weight: bold; font-size: 16px');
+/*
+Debbuging o Depuracion en español, y breakpoints
+Para poder hacer esta practica debemos hacerla en el navegador
+agregar los break points en el tab o pestaña del navegador
+y irle dando play siguiente para irlo reproduciendo
+
+En el IDE tambien hacemos el mismo prodecimiento pero necesitamos
+tener instalado NodeJS, run, start debugging
+
+Para que?:
+Muchas veces nuestra aplicacion tiene errores y con este procedimiento
+podemos saber en que parte esta sucediendo este problema
+
+Donde veo los errores?:
+En el navegador en dicha pestaña
+
+En la consola ctrl + j, en el tab pestaña de DEBUG CONSOLE
+*/
 
 
 console.log('\n');
