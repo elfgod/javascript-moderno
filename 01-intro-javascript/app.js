@@ -75,7 +75,23 @@ En el navegador en dicha pestaña
 En la consola ctrl + j, en el tab pestaña de DEBUG CONSOLE
 */
 
+console.log('\n');
+console.log('%c Orden y lugar de las importaciones', 'color: orange; font-weight: bold; font-size: 16px');
+/*
+El orden en que importamos los codigos JS o archivos JS si importa
+Se ejecutaran los archivos en orden desde el primero, segundo y etc
 
+<script src="assets/js/app.js"></script>
+<script src="assets/js/alerts.js"></script>
+
+No es lo mismo que
+
+<script src="assets/js/alerts.js"></script>
+<script src="assets/js/app.js"></script>
+*/
+
+console.log('\n');
+console.log('%c Prompt, confirm y alert', 'color: orange; font-weight: bold; font-size: 16px');
 console.log('\n');
 console.log('\n');
 console.log('\n');
