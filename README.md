@@ -30,7 +30,7 @@ Semantica de un folder carpeta en un proyecto:
 ## 5. Principal problema con la inicialización de variables con Var
 
 El principal problema por el cual no se utiliza var es por el escope
-o alcanze de la variable que interfiere con mi codigo archivo
+o alcanze de la variable interfiere con mi codigo archivo
 
 Toda variable creada sin darle un valor, nos va tirar undefined cuando la corramos
 
@@ -43,3 +43,13 @@ Fundamentos de JavaScript, primitivos, arreglos,
 objetos y funciones basicas
 
 ## 1. Tiṕos de datos primitivos
+
+## 2. Introduccion general a los tipos primitivos
+
+## 3. Palabras reservadas
+
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Lexical_grammar
+
+## 3. Arreglos
+
+## 4. Objetos Literales

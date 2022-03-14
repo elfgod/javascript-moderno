@@ -92,10 +92,3 @@ No es lo mismo que
 
 console.log('\n');
 console.log('%c Prompt, confirm y alert', 'color: orange; font-weight: bold; font-size: 16px');
-console.log('\n');
-console.log('\n');
-console.log('\n');
-console.log('\n');
-console.log('\n');
-console.log('\n');
-console.log('\n');
